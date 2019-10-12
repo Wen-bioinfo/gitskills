@@ -1,2 +1,2 @@
 # gitskills
-hey, you.
+hi, you.
